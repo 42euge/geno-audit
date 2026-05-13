@@ -1,0 +1,5 @@
+name: geno-audit
+version: "0.1.0"
+description: Ecosystem compliance auditor for geno-* skillsets
+requires:
+  - geno-tools
